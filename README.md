@@ -6,4 +6,4 @@
 # Summary, Discussion, and Future Work
 # References
 # Acknowledgements
-# I would like to thank CLIM680 professor for coding assistance and answering question.
+ I would like to thank CLIM680 professor for coding assistance and answering question.
