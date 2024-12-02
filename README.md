@@ -98,21 +98,21 @@ The next picture allows us to understand the T- Statistic for El nino vs Neutral
 
 ![image](https://github.com/user-attachments/assets/c4820e91-7891-4e34-bfd7-2b9074a02da9)
 
-               Picture 07:
+             
 
 ![image](https://github.com/user-attachments/assets/75906a2f-e62a-4014-b813-617f09dbaa91)
 
-               Picture 08:
+               Picture 07:
 
 Difference between composites and also mark where it is significant.
 
 ![image](https://github.com/user-attachments/assets/f6979cbc-0fa1-4e16-b351-8cd4f8e11e93)
 
-              Picture 09: 
+              Picture 08: 
 
 ![image](https://github.com/user-attachments/assets/0b9ceb42-1794-42d0-8c7e-7878669adff8)
 
-             Picture 10: 
+             Picture 09: 
 
 ##  Analysis
  
