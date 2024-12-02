@@ -32,13 +32,13 @@ https://github.com/dianaveronez/Diana_CLIM680_project/blob/main/README.md
 ## Code description and results
 
 ### Project Notebook via Github
-The files about this project you can find in the link: https://github.com/dianaveronez/Diana_CLIM680_project
+The files about this project you can find in the [link](https://github.com/dianaveronez/Diana_CLIM680_project)
 
 ### Conda Environment
 The climate2.yml file defines the environment needed to run all code successfully.
 
 ### Libraries
- To work using code is important to plan all the libraries and modules that will be necessary. In this project, the mean libraries used on the notebook were: xarray as xr, matplotlib.pyplot as plt, numpy as np, cartopy.crs as ccrs, cartopy.mpl.ticker as sticker, scipy.stats, and cartopy.util import add_cyclic_point.
+  In this project, the main libraries used on the notebook were: xarray as xr, matplotlib.pyplot as plt, numpy as np, cartopy.crs as ccrs, cartopy.mpl.ticker as sticker, scipy.stats, and cartopy.util import add_cyclic_point.
 
  ### Monthly Mean Precipitation  
  
