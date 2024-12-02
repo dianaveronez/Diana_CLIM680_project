@@ -33,14 +33,15 @@ https://github.com/dianaveronez/Diana_CLIM680_project/blob/main/README.md
 ## Code description and results
 
 ### Project Notebook via Github
-The files about this project you can find in the [link](https://github.com/dianaveronez/Diana_CLIM680_project)
+The files about this project you can find in the [link](https://github.com/dianaveronez/Diana_CLIM680_project).
+
+Jupyter Notebooks: [Part1](https://github.com/dianaveronez/Diana_CLIM680_project/blob/main/Diana_Project_part1.ipynb) and [Part2](https://github.com/dianaveronez/Diana_CLIM680_project/blob/main/Diana_Project_part2.ipynb)
 
 ### Conda Environment
-The climate2.yml file defines the environment needed to run all code successfully.
+The [climate2.yml](https://github.com/dianaveronez/Diana_CLIM680_project/blob/main/climate2.yml) file defines the environment needed to run all code successfully.
 
 ### Libraries
-  In this project, the main libraries used on the notebook were: xarray as xr, matplotlib.pyplot as plt, numpy as np, cartopy.crs as ccrs, cartopy.mpl.ticker as sticker, scipy.stats, and cartopy.util import add_cyclic_point.
-libraries = ['xarray', 'pandas','numpy', 'matplotlib.pyplot', 'cartopy.crs', 'cartopy.mpl.ticker', 'calendar', 'cartopy.util', 'imageio', 'scipy.stats.ttest_ind']
+  In this project, the main libraries used on the notebook were:'xarray', 'pandas','numpy', 'matplotlib.pyplot', 'cartopy.crs', 'cartopy.mpl.ticker', 'calendar', 'cartopy.util', 'imageio', 'scipy.stats.ttest_ind'.
 
 
 ### Monthly Mean Precipitation  from 2000 - 2018
@@ -157,10 +158,12 @@ The difference between La Niña and Neutral conditions is not statistically sign
 
              Picture 08:  Composite 
 
-## Summary, Discussion, and Future Work
+## Summary
 The project explores the relationship between ENSO (El Niño-Southern Oscillation) and precipitation, using datasets like the Niño 3.4 Index and GPCP precipitation data. It calculates and visualizes anomalies, composites, and differences in precipitation during El Niño, La Niña, and neutral phases. Statistical methods, including T-tests, assess the significance of these differences. 
-The project highlights ENSO's impacts on global and regional precipitation patterns, providing insights into climate variability.
 
+In conclusion, the project highlights the interplay between ENSO and precipitation, emphasizing global and regional effects. 
+Precipitation is influenced by ENSO, with El Niño showing significant global impacts, as demonstrated in the global visualization. However, in Arlington, the influence of El Niño is present but not statistically significant, as shown in picture 08. 
+This analysis underscores the importance of localized studies to complement global findings, providing critical insights for regional climate adaptation and resilience planning.
 
 ## References
 Smith, J., Brown, K., & Lee, R. (2020). Hydrology in a changing world: Managing water resources. Springer.
