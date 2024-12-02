@@ -51,10 +51,11 @@ As we read in the introduction, the ENSO can affect the precipitation.
 In the next steps, we will define El Nino, La Nina, or Neutral from 2000 until 2018.
 
  
-![image](https://github.com/user-attachments/assets/b5ef4700-9e50-4d9a-9b56-4beeb8b7d2dc)
+![image](https://github.com/user-attachments/assets/14589062-189b-44b9-ab5e-a2b75d984184)
 
 
-                    Picture: Nino 3.4 Indes for 2000 - 2018
+
+                    Picture: Nino 3.4 Indes for 1985 - 2020
 
 To continue, the script analyzes sea surface temperature (SST) data to classify periods as El Nino, La Nina, or Neutral from 2000 to 2018. It performs the following tasks:
 1. Classifies SST data into El Nino, La Nina, and Neutral categories based on temperature thresholds.
