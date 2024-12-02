@@ -135,9 +135,11 @@ Steps:
 
 ![image](https://github.com/user-attachments/assets/c4820e91-7891-4e34-bfd7-2b9074a02da9)
 T-statistic: 7.3377 | P-value: 0.0000 | Statistically Significant: True
+The difference between El Niño and Neutral conditions is statistically significant.
 
 ![image](https://github.com/user-attachments/assets/75906a2f-e62a-4014-b813-617f09dbaa91)
 T-statistic: -0.0240 | P-value: 0.4259 | Statistically Significant: False
+The difference between La Niña and Neutral conditions is not statistically significant.
             
                Picture 07: t-test to compare mean precipitation anomalies
 
@@ -145,11 +147,11 @@ Difference between composites and also mark where it is significant.
 
 ![image](https://github.com/user-attachments/assets/f6979cbc-0fa1-4e16-b351-8cd4f8e11e93)
 
-              Picture 08: 
+               
 
 ![image](https://github.com/user-attachments/assets/0b9ceb42-1794-42d0-8c7e-7878669adff8)
 
-             Picture 09: 
+             Picture 08:  Composite 
 
 ## Summary, Discussion, and Future Work
 
