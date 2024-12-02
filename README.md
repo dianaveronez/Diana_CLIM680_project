@@ -20,6 +20,7 @@ The data can be downloaded from the following [link](https://github.com/dianaver
 
    
 > Precipitation Data
+
 The Precipitation data can be obtained from the Global Precipitation Climatology Project (GPCP).
 - Date: 	1979-01-01 00:00:00 UTC - 2021-12-01 00:00:00 UTC. This study focuses on the dataset spans from 2020 to 2018.
 - Model:	GPCP - Global Precipitation Climatology Project,  Monthly Precipitation Data.
@@ -118,12 +119,9 @@ Difference between composites and also mark where it is significant.
 
              Picture 09: 
 
-##  Analysis
- 
-
-
-
 ## Summary, Discussion, and Future Work
+
+
 
 ## References
 Smith, J., Brown, K., & Lee, R. (2020). Hydrology in a changing world: Managing water resources. Springer.
@@ -134,7 +132,7 @@ Murray, D., et al., (2020) Facility for Weather and Climate Assessments (FACTS):
 Adler et al. (2016) An Update (Version 2.3) of the GPCP Monthly Analysis. (in Preparation). Huffman, G.J., R.F. Adler, P. Arkin, A. Chang, R. Ferraro, A. Gruber, J. Janowiak, A. McNab, B. Rudolf, U. Schneider, 1997: The Global Precipitation Climatology Project (GPCP) Combined Precipitation Dataset. Bull. Amer. Meteor. Soc., 78(1), 5-20.
 
 ## Acknowledgements
- I would like to thank CLIM680 professor for coding assistance and answering question.
+ I would like to thank the professor for coding assistance and answering questions.
 
 
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
