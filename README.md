@@ -24,7 +24,7 @@ The data used in this study was Global Precipitation Climatology Project (GPCP).
 - Date: 	1979-01-01 00:00:00 UTC - 2021-12-01 00:00:00 UTC. This study focuses on the dataset spans from 2020 to 2018.
 - Model:	GPCP - Global Precipitation Climatology Project,  Monthly Precipitation Data.
 
-The data can be downloaded from NOAA repository. https://psl.noaa.gov/repository/entry/show?entryid=9aaab85c-cdd3-44af-810c-12a1b23ccf5d  or https://github.com/dianaveronez/Diana_CLIM680_project/blob/main/GPCP_NOAA_precip.mon.mean.nc 
+The data can be downloaded from NOAA repository. [link1](https://psl.noaa.gov/repository/entry/show?entryid=9aaab85c-cdd3-44af-810c-12a1b23ccf5d)  or [link2](https://github.com/dianaveronez/Diana_CLIM680_project/blob/main/GPCP_NOAA_precip.mon.mean.nc) 
 
 
 https://github.com/dianaveronez/Diana_CLIM680_project/blob/main/README.md
