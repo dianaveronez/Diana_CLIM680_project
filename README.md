@@ -22,7 +22,7 @@ The data can be downloaded from the following [link](https://github.com/dianaver
 > Precipitation Data
 
 The Precipitation data can be obtained from the Global Precipitation Climatology Project (GPCP).
-- Date: 	1979-01-01 00:00:00 UTC - 2021-12-01 00:00:00 UTC. This study focuses on the dataset spans from 2020 to 2018.
+- Date: 	1979-01-01 00:00:00 UTC  to  2021-12-01 00:00:00 UTC. This study focuses on the dataset spans from 2020 to 2018.
 - Model:	GPCP - Global Precipitation Climatology Project,  Monthly Precipitation Data.
 
 The data can be downloaded from NOAA repository. [link1](https://psl.noaa.gov/repository/entry/show?entryid=9aaab85c-cdd3-44af-810c-12a1b23ccf5d)  or [link2](https://github.com/dianaveronez/Diana_CLIM680_project/blob/main/GPCP_NOAA_precip.mon.mean.nc) 
@@ -43,7 +43,7 @@ The climate2.yml file defines the environment needed to run all code successfull
 libraries = ['xarray', 'pandas','numpy', 'matplotlib.pyplot', 'cartopy.crs', 'cartopy.mpl.ticker', 'calendar', 'cartopy.util', 'imageio', 'scipy.stats.ttest_ind']
 
 
-### Monthly Mean Precipitation  
+### Monthly Mean Precipitation  from 2000 - 2018
 
  
    ![image](https://github.com/user-attachments/assets/f67667a9-0c88-492a-9132-326900bc3610)
@@ -137,11 +137,11 @@ Steps:
 
 
 ![image](https://github.com/user-attachments/assets/c4820e91-7891-4e34-bfd7-2b9074a02da9)
-T-statistic: 7.3377 | P-value: 0.0000 | Statistically Significant: True
+
 The difference between El Niño and Neutral conditions is statistically significant.
 
 ![image](https://github.com/user-attachments/assets/75906a2f-e62a-4014-b813-617f09dbaa91)
-T-statistic: -0.0240 | P-value: 0.4259 | Statistically Significant: False
+
 The difference between La Niña and Neutral conditions is not statistically significant.
             
                Picture 07: t-test to compare mean precipitation anomalies
