@@ -77,9 +77,10 @@ Plot:
 The next picture shows us the results for SST for 2000 - 2018 with El Nino, La Nina, and Neutral Periods.
 
 
-  ![image](https://github.com/user-attachments/assets/f701136c-445b-4293-a587-c49a27f27c1a)
+  ![image](https://github.com/user-attachments/assets/f701136c-445b-4293-a587-c49a27f27c1a)  ![image](https://github.com/user-attachments/assets/226312b3-106e-4426-a336-608c502d1c16)
+
  
-             Picture 04: SST for 2000 to 2018 with El Nino, La Nina, and Neutral Pediods.
+             Picture 04: Niño 3.4 Index for 2000 to 2018 with El Nino, La Nina, and Neutral.
 
 These analyses allow us to know that in the period we have 53 El Nino, 110 Neutral, and 63 La Nina.
 
