@@ -134,11 +134,10 @@ Steps:
 
 
 ![image](https://github.com/user-attachments/assets/c4820e91-7891-4e34-bfd7-2b9074a02da9)
-
-             T-statistic: 7.3377 | P-value: 0.0000 | Statistically Significant: True
+T-statistic: 7.3377 | P-value: 0.0000 | Statistically Significant: True
 
 ![image](https://github.com/user-attachments/assets/75906a2f-e62a-4014-b813-617f09dbaa91)
-
+T-statistic: -0.0240 | P-value: 0.4259 | Statistically Significant: False
                Picture 07:
 
 Difference between composites and also mark where it is significant.
