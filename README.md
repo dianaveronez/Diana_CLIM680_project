@@ -16,8 +16,6 @@ The Nino3.4 index can be obtained from the NOAA Physical Sciences Laboratory’s
 The index called Nino3.4 is used to quantify the El Niño–Southern Oscillation (ENSO). When the index is significantly positive, it indicates an El Niño event. Conversely, when the index is significantly negative, it reflects a La Niña event. Values near zero are considered neutral conditions.
 The Nino3.4 index is derived from sea surface temperature (SST) anomalies in a specific region of the Tropical Pacific.
 The data can be downloaded from the following link:https://github.com/dianaveronez/Diana_CLIM680_project/blob/main/nino34_1982-2019.oisstv2_anoms.nc
-
-[link]((https://github.com/dianaveronez/Diana_CLIM680_project/blob/main/nino34_1982-2019.oisstv2_anoms.nc))
    
 > Precipitation Data
 The data used in this study was Global Precipitation Climatology Project (GPCP).
@@ -29,16 +27,16 @@ https://github.com/dianaveronez/Diana_CLIM680_project/blob/main/README.md
 
 ## Code description and results
 
-### Project Notebook via Github
+> Project Notebook via Github
 The files about this project you can find in the link: https://github.com/dianaveronez/Diana_CLIM680_project
 
-### Conda Environment
-The climate2.yml file is shown to define the environment needed to run all code successfully.
+> Conda Environment
+The climate2.yml file defines the environment needed to run all code successfully.
 
-### Libraries
+> Libraries
  To work using code is important to plan all the libraries and modules that will be necessary. In this project, the mean libraries used on the notebook were: xarray as xr, matplotlib.pyplot as plt, numpy as np, cartopy.crs as ccrs, cartopy.mpl.ticker as sticker, scipy.stats, and cartopy.util import add_cyclic_point.
 
- ### Monthly Mean Precipitation  
+ > Monthly Mean Precipitation  
  
    ![image](https://github.com/user-attachments/assets/f67667a9-0c88-492a-9132-326900bc3610)
 
@@ -48,7 +46,7 @@ The climate2.yml file is shown to define the environment needed to run all code 
  Picture: Monthly Mean Precipitation VA View
 
  
-### Composites with significance
+###  Nino3.4 Index
 As we read in the introduction, the ENSO can affect the precipitation.
 In the next steps, we will define El Nino, La Nina, or Neutral from 2000 until 2018.
 
@@ -86,14 +84,14 @@ To continue, we upload the Global Precipitation Climatology Project (GPCP) and c
 
     Picture: Composite Precipitation Anomalies during ENSO 2000-2018
 
-
+> Differences
 The next map shows us the differences between El Nino and Neutral and La Nina and Neutral.
 
 ![image](https://github.com/user-attachments/assets/286da412-c0c1-4f51-8d55-42440f8ccc7f)
 
       Picture: Composite Precipitation Differences during ENSO 2000-2018
 
-Talk about T-Statistic
+> T-Statistic
 
 The next picture allows us to understand the T- Statistic for El nino vs Neutral and La nina and Neutral.
 
