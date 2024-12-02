@@ -15,7 +15,7 @@ In the context of Arlington County, Virginia, understanding the interplay betwee
 The Nino3.4 index can be obtained from the NOAA Physical Sciences Laboratory’s “Climate Indices: Monthly Atmospheric and Ocean Time Series” pages.
 The index called Nino3.4 is used to quantify the El Niño–Southern Oscillation (ENSO). When the index is significantly positive, it indicates an El Niño event. Conversely, when the index is significantly negative, it reflects a La Niña event. Values near zero are considered neutral conditions.
 The Nino3.4 index is derived from sea surface temperature (SST) anomalies in a specific region of the Tropical Pacific.
-The data can be downloaded from the following [link:] (https://github.com/dianaveronez/Diana_CLIM680_project/blob/main/nino34_1982-2019.oisstv2_anoms.nc)
+The data can be downloaded from the following link:[(https://github.com/dianaveronez/Diana_CLIM680_project/blob/main/nino34_1982-2019.oisstv2_anoms.nc)] 
    
 3. Precipitation Data
 The data used in this study was Global Precipitation Climatology Project (GPCP).
