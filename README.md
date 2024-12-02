@@ -48,14 +48,14 @@ The climate2.yml file is shown to define the environment needed to run all code 
  
 ### Composites with significance
 As we read in the introduction, the ENSO can affect the precipitation.
-In the next steps, we will define El Nino, La Nina, or Neutral for the period 2000 until 2018.
+In the next steps, we will define El Nino, La Nina, or Neutral from 2000 until 2018.
 
  
 ![image](https://github.com/user-attachments/assets/9719b4f3-b16e-48c6-a194-38c1bfa72405)
 
                     Picture: SST for 2000 to 2018
 
-To continue, the script analyzes sea surface temperature (SST) data to classify periods as El Nino, La Nina, or Neutral from the year 2000 to 2018. It performs the following tasks:
+To continue, the script analyzes sea surface temperature (SST) data to classify periods as El Nino, La Nina, or Neutral from 2000 to 2018. It performs the following tasks:
 1. Classifies SST data into El Nino, La Nina, and Neutral categories based on temperature thresholds.
 2. Counts the number of time points in each category.
 3. Plots the SST data over time, highlighting El Nino, La Nina, and Neutral periods with different colors.
