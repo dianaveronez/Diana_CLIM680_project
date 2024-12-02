@@ -40,10 +40,11 @@ The climate2.yml file defines the environment needed to run all code successfull
  
    ![image](https://github.com/user-attachments/assets/f67667a9-0c88-492a-9132-326900bc3610)
 
-                 Picture: Monthly Mean Precipitation Global View
+                 Picture 01: Monthly Mean Precipitation Global View
 
  ![monthly_precipitation](https://github.com/user-attachments/assets/52d176e3-a4ae-4ddf-ba26-1948356b2ce7)
- Picture: Monthly Mean Precipitation VA View
+
+                 Picture 02: Monthly Mean Precipitation VA View
 
  
 ###  Nino3.4 Index
@@ -54,8 +55,7 @@ In the next steps, we will define El Nino, La Nina, or Neutral from 2000 until 2
 ![image](https://github.com/user-attachments/assets/14589062-189b-44b9-ab5e-a2b75d984184)
 
 
-
-                    Picture: Nino 3.4 Indes for 1985 - 2020
+                    Picture 03: Nino 3.4 Indes for 1985 - 2020
 
 To continue, the script analyzes sea surface temperature (SST) data to classify periods as El Nino, La Nina, or Neutral from 2000 to 2018. It performs the following tasks:
 1. Classifies SST data into El Nino, La Nina, and Neutral categories based on temperature thresholds.
@@ -74,7 +74,7 @@ The next picture shows us the results for SST for 2000 - 2018 with El Nino, La N
 
   ![image](https://github.com/user-attachments/assets/f701136c-445b-4293-a587-c49a27f27c1a)
  
-             Picture: SST for 2000 to 2018 with El Nino, La Nina, and Neutral Pediods.
+             Picture 04: SST for 2000 to 2018 with El Nino, La Nina, and Neutral Pediods.
 
 These analyses allow us to know that in the period we have 53 El Nino, 110 Neutral, and 63 La Nina.
 
@@ -83,14 +83,14 @@ To continue, we upload the Global Precipitation Climatology Project (GPCP) and c
 
 ![image](https://github.com/user-attachments/assets/069bbcbe-36f6-4c55-a793-6cd207489c43)
 
-    Picture: Composite Precipitation Anomalies during ENSO 2000-2018
+              Picture 05: Composite Precipitation Anomalies during ENSO 2000-2018
 
 ### Differences
 The next map shows us the differences between El Nino and Neutral and La Nina and Neutral.
 
 ![image](https://github.com/user-attachments/assets/286da412-c0c1-4f51-8d55-42440f8ccc7f)
 
-      Picture: Composite Precipitation Differences during ENSO 2000-2018
+              Picture 06: Composite Precipitation Differences during ENSO 2000-2018
 
 ### T-Statistic
 
@@ -98,21 +98,21 @@ The next picture allows us to understand the T- Statistic for El nino vs Neutral
 
 ![image](https://github.com/user-attachments/assets/c4820e91-7891-4e34-bfd7-2b9074a02da9)
 
-Picture:
+               Picture 07:
 
 ![image](https://github.com/user-attachments/assets/75906a2f-e62a-4014-b813-617f09dbaa91)
 
-Picture:
+               Picture 08:
 
 Difference between composites and also mark where it is significant.
 
 ![image](https://github.com/user-attachments/assets/f6979cbc-0fa1-4e16-b351-8cd4f8e11e93)
 
-Picture: 
+              Picture 09: 
 
 ![image](https://github.com/user-attachments/assets/0b9ceb42-1794-42d0-8c7e-7878669adff8)
 
-Picture:
+             Picture 10: 
 
 ##  Analysis
  
