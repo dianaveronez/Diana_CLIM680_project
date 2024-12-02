@@ -11,7 +11,7 @@ One key factor influencing global precipitation variability is the El Niño-Sout
 In the context of Arlington County, Virginia, understanding the interplay between precipitation and ENSO is particularly vital for assessing flood risks. With its urbanized landscape and proximity to water bodies, Arlington is highly susceptible to flooding, especially during extreme precipitation events exacerbated by ENSO-related climate variability. Developing a nuanced understanding of these dynamics can enhance flood risk management, improve urban planning, and foster community resilience (County Climate Action Team, 2023).
 
 ## Data
-1. Nino 3.4 index
+> Nino 3.4 index
 The Nino3.4 index can be obtained from the NOAA Physical Sciences Laboratory’s “Climate Indices: Monthly Atmospheric and Ocean Time Series” pages.
 The index called Nino3.4 is used to quantify the El Niño–Southern Oscillation (ENSO). When the index is significantly positive, it indicates an El Niño event. Conversely, when the index is significantly negative, it reflects a La Niña event. Values near zero are considered neutral conditions.
 The Nino3.4 index is derived from sea surface temperature (SST) anomalies in a specific region of the Tropical Pacific.
@@ -19,7 +19,7 @@ The data can be downloaded from the following link:https://github.com/dianaveron
 
 [link]((https://github.com/dianaveronez/Diana_CLIM680_project/blob/main/nino34_1982-2019.oisstv2_anoms.nc))
    
-3. Precipitation Data
+> Precipitation Data
 The data used in this study was Global Precipitation Climatology Project (GPCP).
 - Date: 	1979-01-01 00:00:00 UTC - 2021-12-01 00:00:00 UTC. This study focuses on the dataset spans from 2020 to 2018.
 - Model:	GPCP - Global Precipitation Climatology Project,  Monthly Precipitation Data.
