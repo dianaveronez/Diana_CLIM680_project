@@ -158,7 +158,8 @@ The difference between La Niña and Neutral conditions is not statistically sign
              Picture 08:  Composite 
 
 ## Summary, Discussion, and Future Work
-
+The project explores the relationship between ENSO (El Niño-Southern Oscillation) and precipitation, using datasets like the Niño 3.4 Index and GPCP precipitation data. It calculates and visualizes anomalies, composites, and differences in precipitation during El Niño, La Niña, and neutral phases. Statistical methods, including T-tests, assess the significance of these differences. 
+The project highlights ENSO's impacts on global and regional precipitation patterns, providing insights into climate variability.
 
 
 ## References
