@@ -1,6 +1,3 @@
-# Diana_CLIM680_project
- https://dianaveronez.github.io/
- 
 # dianaveronez.github.io
 # Diana_CLIM680_project
 
