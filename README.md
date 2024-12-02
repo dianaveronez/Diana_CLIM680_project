@@ -20,7 +20,7 @@ The data can be downloaded from the following [link](https://github.com/dianaver
 
    
 > Precipitation Data
-The data used in this study was Global Precipitation Climatology Project (GPCP).
+The Precipitation data can be obtained from the Global Precipitation Climatology Project (GPCP).
 - Date: 	1979-01-01 00:00:00 UTC - 2021-12-01 00:00:00 UTC. This study focuses on the dataset spans from 2020 to 2018.
 - Model:	GPCP - Global Precipitation Climatology Project,  Monthly Precipitation Data.
 
@@ -52,7 +52,7 @@ The climate2.yml file defines the environment needed to run all code successfull
 
  
 ###  Nino3.4 Index
-As we read in the introduction, the ENSO can affect the precipitation.
+The ENSO can affect the precipitation as highlighted in the introduction.
 In the next steps, we will define El Nino, La Nina, or Neutral from 2000 until 2018.
 
  
