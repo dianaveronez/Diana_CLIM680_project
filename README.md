@@ -86,6 +86,17 @@ These analyses allow us to know that in the period we have 53 El Nino, 110 Neutr
 
 ### Composite Precipitation Anomalies
 To continue, we upload the Global Precipitation Climatology Project (GPCP) and calculate the mean precipitation anomalies for El Niño, La Niña, and neutral conditions from a dataset.
+This code calculates the mean precipitation anomalies for El Niño, La Niña, and neutral conditions from a dataset.
+Variables:
+    elnino_precip (xarray.DataArray): Mean precipitation anomalies during El Niño periods.
+    lanina_precip (xarray.DataArray): Mean precipitation anomalies during La Niña periods.
+    neutral_precip (xarray.DataArray): Mean precipitation anomalies during neutral periods.
+    comp_precip (list): List containing mean precipitation anomalies for El Niño, La Niña, and neutral conditions.
+Steps:
+1. Selects the time periods corresponding to El Niño, La Niña, and neutral conditions from the dataset `ds_anoms`.
+2. Calculates the mean precipitation anomalies for each condition.
+3. Stores the results in a list `comp_precip`.
+4. Prints the list.
 
 ![image](https://github.com/user-attachments/assets/069bbcbe-36f6-4c55-a793-6cd207489c43)
 
