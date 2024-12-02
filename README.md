@@ -40,8 +40,9 @@ The climate2.yml file defines the environment needed to run all code successfull
 
 ### Libraries
   In this project, the main libraries used on the notebook were: xarray as xr, matplotlib.pyplot as plt, numpy as np, cartopy.crs as ccrs, cartopy.mpl.ticker as sticker, scipy.stats, and cartopy.util import add_cyclic_point.
+libraries = ['xarray', 'pandas','numpy', 'matplotlib.pyplot', 'cartopy.crs', 'cartopy.mpl.ticker', 'calendar', 'cartopy.util', 'imageio', 'scipy.stats.ttest_ind']
 
-### M
+
 ### Monthly Mean Precipitation  
 
  
