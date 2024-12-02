@@ -142,8 +142,9 @@ T-statistic: -0.0240 | P-value: 0.4259 | Statistically Significant: False
 The difference between La Niña and Neutral conditions is not statistically significant.
             
                Picture 07: t-test to compare mean precipitation anomalies
+               
 
-Difference between composites and also mark where it is significant.
+### Difference between composites and also mark where it is significant.
 
 ![image](https://github.com/user-attachments/assets/f6979cbc-0fa1-4e16-b351-8cd4f8e11e93)
 
