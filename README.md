@@ -122,16 +122,8 @@ Steps:
 5. Print the t-statistic, p-value, and significance of the result.
 
 
-![image](https://github.com/user-attachments/assets/c4820e91-7891-4e34-bfd7-2b9074a02da9)
-
 The difference between El Niño and Neutral conditions is statistically significant.
-
-![image](https://github.com/user-attachments/assets/75906a2f-e62a-4014-b813-617f09dbaa91)
-
-The difference between La Niña and Neutral conditions is not statistically significant.
-            
-               Picture 07: t-test to compare mean precipitation anomalies
-               
+The difference between La Niña and Neutral conditions is not statistically significant.               
 
 ### Difference between composites and also mark where it is significant.
 
@@ -141,13 +133,13 @@ The difference between La Niña and Neutral conditions is not statistically sign
 
 ![image](https://github.com/user-attachments/assets/0b9ceb42-1794-42d0-8c7e-7878669adff8)
 
-             Picture 08:  Composite Precipitation Differences
+             Picture 07:  Composite Precipitation Differences
 
 ## Summary
 The project explores the relationship between ENSO (El Niño-Southern Oscillation) and precipitation, using datasets like the Niño 3.4 Index and GPCP precipitation data. It calculates and visualizes anomalies, composites, and differences in precipitation during El Niño, La Niña, and neutral phases. Statistical methods, including T-tests, assess the significance of these differences. 
 
 In conclusion, the project highlights the interplay between ENSO and precipitation, emphasizing global and regional effects. 
-Precipitation is influenced by ENSO, with El Niño showing significant global impacts, as demonstrated in the global visualization. However, in Arlington, the influence of El Niño is present but not statistically significant, as shown in picture 08. 
+Precipitation is influenced by ENSO, with El Niño showing significant global impacts, as demonstrated in the global visualization. However, in Arlington, the influence of El Niño is present but not statistically significant, as shown in picture 07. 
 This analysis underscores the importance of localized studies to complement global findings, providing critical insights for regional climate adaptation and resilience planning.
 
 ## References
