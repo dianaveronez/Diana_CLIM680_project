@@ -122,8 +122,9 @@ Steps:
 5. Print the t-statistic, p-value, and significance of the result.
 
 
-The difference between El Niño and Neutral conditions is statistically significant.
-The difference between La Niña and Neutral conditions is not statistically significant.               
+- The difference between El Niño and Neutral conditions is statistically significant.
+- 
+- The difference between La Niña and Neutral conditions is not statistically significant.               
 
 ### Difference between composites and also mark where it is significant.
 
