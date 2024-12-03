@@ -79,7 +79,7 @@ Variables:
 Plot:
 - The SST data is plotted over time with different colors indicating El Nino (red), La Nina (blue), and Neutral (green) periods.
 
-The next picture shows us the results for SST for 2000 - 2018 with El Nino, La Nina, and Neutral Periods.
+The next picture shows the results between 2000 - 2018 with El Nino, La Nina, and Neutral Periods.
 
 
  ![image](https://github.com/user-attachments/assets/226312b3-106e-4426-a336-608c502d1c16)   ![image](https://github.com/user-attachments/assets/69414436-6992-4436-b987-8529d419bbd9)
@@ -87,21 +87,16 @@ The next picture shows us the results for SST for 2000 - 2018 with El Nino, La N
  
              Picture 04: Niño 3.4 Index for 2000 to 2018 with El Nino, La Nina, and Neutral.
 
-These analyses allow us to know that in the period we have 53 El Nino, 110 Neutral, and 63 La Nina.
+These analyses show that during the period we had 53 El Nino, 110 Neutral, and 63 La Nina.
 
 ### Composite Precipitation Anomalies
-To continue, we upload the Global Precipitation Climatology Project (GPCP) and calculate the mean precipitation anomalies for El Niño, La Niña, and neutral conditions from a dataset.
+The Global Precipitation Climatology Project (GPCP) was loaded to calculate the mean precipitation anomalies for El Niño, La Niña, and neutral conditions from a dataset.
 
 The code calculates the mean precipitation anomalies for El Niño, La Niña, and neutral conditions from a dataset.
 
-Variables:
-    - elnino_precip (xarray.DataArray): Mean precipitation anomalies during El Niño periods.
-    - lanina_precip (xarray.DataArray): Mean precipitation anomalies during La Niña periods.
-    - neutral_precip (xarray.DataArray): Mean precipitation anomalies during neutral periods.
-    - comp_precip (list): List containing mean precipitation anomalies for El Niño, La Niña, and neutral conditions.
 Steps:
-1. Selects the time periods corresponding to El Niño, La Niña, and neutral conditions from the dataset `ds_anoms`.
-2. Calculates the mean precipitation anomalies for each condition.
+1. Select the time periods corresponding to El Niño, La Niña, and neutral conditions from the dataset.
+2. Calculate the mean precipitation anomalies for each condition.
 3. Stores the results in a list `comp_precip`.
 4. Prints the list.
 
@@ -111,12 +106,7 @@ Steps:
 
 ### Differences
 The code calculates the differences in mean precipitation anomalies between El Niño and Neutral conditions, and La Niña and Neutral conditions.
-Variables:
-    diff_precip (list): List containing the differences in mean precipitation anomalies between El Niño and Neutral, and La Niña and Neutral conditions.
-Plot:
-    - The first subplot shows the difference in mean precipitation anomalies between El Niño and Neutral conditions.
-    - The second subplot shows the difference in mean precipitation anomalies between La Niña and Neutral conditions.
-    - Both subplots use a contour plot to visualize the differences in precipitation anomalies.
+The code created a list containing the differences in mean precipitation anomalies between El Niño and Neutral, and La Niña and Neutral conditions. So, the first subplot shows the difference in mean precipitation anomalies between El Niño and Neutral conditions, the second subplot shows the difference in mean precipitation anomalies between La Niña and Neutral conditions. 
 
 
 ![image](https://github.com/user-attachments/assets/286da412-c0c1-4f51-8d55-42440f8ccc7f)
@@ -125,15 +115,8 @@ Plot:
 
 ### T-Statistic
 The code performs a two-sample t-test to compare mean precipitation anomalies between El Niño and Neutral conditions and La Niña and Neutral conditions.
-Variables:
-    - elnino_precip_vals (xarray.DataArray): Precipitation values during El Niño periods.
-    - lanina_precip_vals (xarray.DataArray): Precipitation values during La Niña periods
-    - neutral_precip_vals (xarray.DataArray): Precipitation values during Neutral periods.
-    - tstat (float): T-statistic value from the t-test.
-    - pval (float): P-value from the t-test.
-    - signif (bool): True if the result is statistically significant, False otherwise.
 Steps:
-1. Select precipitation values during El Niño and Neutral periods from the dataset `ds_anoms`.
+1. Select precipitation values during El Niño and Neutral periods from the dataset.
 2. Perform a two-sample t-test using the `ttest_ind` function from `scipy.stats`.
 3. Calculate the t-statistic value and p-value.
 4. Set the confidence level and check if the result is statistically significant.
@@ -159,7 +142,7 @@ The difference between La Niña and Neutral conditions is not statistically sign
 
 ![image](https://github.com/user-attachments/assets/0b9ceb42-1794-42d0-8c7e-7878669adff8)
 
-             Picture 08:  Composite precipitation Differences
+             Picture 08:  Composite Precipitation Differences
 
 ## Summary
 The project explores the relationship between ENSO (El Niño-Southern Oscillation) and precipitation, using datasets like the Niño 3.4 Index and GPCP precipitation data. It calculates and visualizes anomalies, composites, and differences in precipitation during El Niño, La Niña, and neutral phases. Statistical methods, including T-tests, assess the significance of these differences. 
