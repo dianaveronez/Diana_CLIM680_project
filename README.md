@@ -105,8 +105,7 @@ Steps:
               Picture 05: Composite Precipitation Anomalies during ENSO 2000-2018
 
 ### Differences
-The code calculates the differences in mean precipitation anomalies between El Niño and Neutral conditions, and La Niña and Neutral conditions.
-The code created a list containing the differences in mean precipitation anomalies between El Niño and Neutral, and La Niña and Neutral conditions. So, the first subplot shows the difference in mean precipitation anomalies between El Niño and Neutral conditions, the second subplot shows the difference in mean precipitation anomalies between La Niña and Neutral conditions. 
+The code calculates the differences in mean precipitation anomalies between El Niño and Neutral conditions, and La Niña and Neutral conditions.So, the first subplot shows the difference in mean precipitation anomalies between El Niño and Neutral conditions, the second subplot shows the difference in mean precipitation anomalies between La Niña and Neutral conditions. 
 
 
 ![image](https://github.com/user-attachments/assets/286da412-c0c1-4f51-8d55-42440f8ccc7f)
