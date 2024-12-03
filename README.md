@@ -67,6 +67,7 @@ In the next steps, we will define El Nino, La Nina, or Neutral from 2000 until 2
                     Picture 03: Nino 3.4 Indes for 1985 - 2020
 
 To continue, the script analyzes sea surface temperature (SST) data to classify periods as El Nino, La Nina, or Neutral from 2000 to 2018. It performs the following tasks:
+
 1. Classifies SST data into El Nino, La Nina, and Neutral categories based on temperature thresholds.
 2. Counts the number of time points in each category.
 3. Plots the SST data over time, highlighting El Nino, La Nina, and Neutral periods with different colors.
@@ -90,7 +91,9 @@ These analyses allow us to know that in the period we have 53 El Nino, 110 Neutr
 
 ### Composite Precipitation Anomalies
 To continue, we upload the Global Precipitation Climatology Project (GPCP) and calculate the mean precipitation anomalies for El Niño, La Niña, and neutral conditions from a dataset.
+
 The code calculates the mean precipitation anomalies for El Niño, La Niña, and neutral conditions from a dataset.
+
 Variables:
     - elnino_precip (xarray.DataArray): Mean precipitation anomalies during El Niño periods.
     - lanina_precip (xarray.DataArray): Mean precipitation anomalies during La Niña periods.
